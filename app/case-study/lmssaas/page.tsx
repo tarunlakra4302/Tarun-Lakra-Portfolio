@@ -701,7 +701,7 @@ export default function LMSSaaSCaseStudy() {
                 <ExternalLink className="w-3 h-3 sm:w-4 sm:h-4 opacity-70 group-hover:opacity-100 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all duration-300 flex-shrink-0" />
               </a>
               <a
-                href="https://drive.google.com/file/d/1YjPbmKaajd1bH9rRoXCQSneNDWn5rvfw/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Ai86pG50z3aaq-ZebxuA8DS6qWaBabAn/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-2 text-white/90 hover:text-white text-sm sm:text-base md:text-lg font-medium transition-all duration-300 w-fit"

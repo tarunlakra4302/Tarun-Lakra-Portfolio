@@ -602,7 +602,7 @@ export default function Page() {
         location="New Delhi, India"
         linkedinUrl="https://www.linkedin.com/in/tarun-lakra/"
         githubUrl="https://github.com/tarunlakra4302"
-        resumeUrl="https://drive.google.com/file/d/1YjPbmKaajd1bH9rRoXCQSneNDWn5rvfw/view?usp=sharing"
+        resumeUrl="https://drive.google.com/file/d/1Ai86pG50z3aaq-ZebxuA8DS6qWaBabAn/view?usp=sharing"
         className="bg-white"
       />
       </motion.div>

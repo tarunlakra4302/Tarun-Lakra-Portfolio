@@ -199,15 +199,6 @@ export default function Page() {
                 detailedRoute: "/case-study/lmssaas"
               },
               {
-                id: 3,
-                year: "2025",
-                industry: "B2B SaaS",
-                category: "Digital Marketing",
-                title: "RouteMate",
-                description: "A comprehensive fleet management application with separate Admin and Driver portals, built with React, Vite, TailwindCSS, and DaisyUI. This is a single-page application with role-based routing and a polished, production-ready interface.",
-                detailedRoute: "/case-study/routemate"
-              },
-              {
                 id: 4,
                 year: "2025",
                 industry: "Video Platform",
@@ -295,20 +286,6 @@ export default function Page() {
                             alt={project.title}
                             fill
                             className="object-cover"
-                          />
-                        </div>
-                      </GlassCard>
-                    </FollowerPointerCard>
-                  )}
-                  {project.id === 3 && (
-                    <FollowerPointerCard key={`pointer-${project.id}`} title={project.title} className="w-full max-w-full aspect-video">
-                      <GlassCard className="w-full h-full" hideLogo={true}>
-                        <div className="absolute inset-0 [transform:translate3d(0,0,26px)] overflow-hidden rounded-[50px] flex items-center justify-center">
-                          <Image
-                            src="/RouteMate.jpg"
-                            alt={project.title}
-                            fill
-                            className="object-cover scale-125"
                           />
                         </div>
                       </GlassCard>
@@ -625,7 +602,7 @@ export default function Page() {
         location="New Delhi, India"
         linkedinUrl="https://www.linkedin.com/in/tarun-lakra/"
         githubUrl="https://github.com/tarunlakra4302"
-        resumeUrl="https://drive.google.com/file/d/1uCC1Iam4_oSYYWcFfTqVhdws5F_l-222/view"
+        resumeUrl="https://drive.google.com/file/d/1YjPbmKaajd1bH9rRoXCQSneNDWn5rvfw/view?usp=sharing"
         className="bg-white"
       />
       </motion.div>
